@@ -1,0 +1,8 @@
+.env
+
+# no generated python file
+./src/workato_prod_*.py
+
+.coverage
+
+*.pytest_cache
